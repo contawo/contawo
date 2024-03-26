@@ -1,4 +1,6 @@
-### Hi there 👋
+![Banner image](https://i.ibb.co/XxxBpXk/Youtube-banner.png)
+
+# Awonke Mnotoza
 
 <!--
 **contawo/contawo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
