@@ -1,4 +1,4 @@
-![Banner image](https://i.ibb.co/XxxBpXk/Youtube-banner.png)
+![Banner image](https://i.ibb.co/w4z4dQB/Linked-In-banner.png)
 
 # Awonke Mnotoza
 
