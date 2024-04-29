@@ -1,5 +1,5 @@
 # 👋🏽 Hey, I'm Awonke Mnotoza! 🌱
-![Banner image](https://i.ibb.co/w4z4dQB/Linked-In-banner.png)
+![Banner Image](https://i.ibb.co/w4z4dQB/Linked-In-banner.png)
 Welcome to my cozy corner of the coding universe! 🚀 As a self-taught full stack developer and a curious student, I'm always tinkering with code, exploring new technologies, and sipping on a cup of virtual juice (I don't drink coffee). ☕
 
 ## About Me
