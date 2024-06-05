@@ -40,7 +40,7 @@ Welcome to my cozy corner of the coding universe! 🚀 As a self-taught full sta
 
 ## Connect with Me
 > 🌐 [Blog website](https://contawo.com/)
-> 🪪 [Portfolio website]()
+> 🪪 [Portfolio website](https://portfolio.contawo.com/)
 > 📸 [Instagram](https://www.instagram.com/contawo/)
 > 🐦 [Twitter](https://twitter.com/ajmnotoza)
 
